@@ -6,8 +6,8 @@ Created (beta) for Prof C. Li Summ 2019 HCCC
 	<table class="noborder">
 		<tbody>
 			<tr>
-				<td style="width:1%"><label for="inputFormula">Unbal. Eqx:</label></td>
-				<td style="width:99%; display:flex; flex-direction:row">
+				<td style="width:4%"><label for="inputFormula">Unbal. Eqx:</label></td>
+				<td style="width:96%; display:flex; flex-direction:row">
 					<input type="text" id="inputFormula" autocomplete="off" placeholder="Enter the unbalanced chemical equation here" style="flex-grow:1; font-family:serif"/>
 					<input type="submit" value="Balance" style="margin-left:0.3em"/>
 				</td>
@@ -24,6 +24,3 @@ Created (beta) for Prof C. Li Summ 2019 HCCC
 	</table>
 </form>
 <script type="application/javascript" src="/chp111/ceb.js"></script>
-
-*line13 < input type="button" value="Random" onclick="doRandom();" style="margin-left:0.3em"/>
-*line 9 original label Input changed to Unbalanced
