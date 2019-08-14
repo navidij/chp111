@@ -6,14 +6,14 @@ Created (beta) for Prof C. Li Summ 2019 HCCC
 	<table class="noborder">
 		<tbody>
 			<tr>
-				<td style="width:1%"><label for="inputFormula">Input:</label></td>
+				<td style="width:1%"><label for="inputFormula">Unbalanced Eqx:</label></td>
 				<td style="width:99%; display:flex; flex-direction:row">
 					<input type="text" id="inputFormula" autocomplete="off" placeholder="Enter the unbalanced chemical equation here" style="flex-grow:1; font-family:serif"/>
 					<input type="submit" value="Balance" style="margin-left:0.3em"/>
 				</td>
 			</tr>
 			<tr style="height:3em">
-				<td style="vertical-align:middle">Balanced:</td>
+				<td style="vertical-align:middle">Balanced Eqx:</td>
 				<td><span id="balanced" style="font-family:serif; font-size:150%; line-height:1.6;"></span><span id="message"></span></td>
 			</tr>
 			<tr>
