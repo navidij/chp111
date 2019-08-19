@@ -1,6 +1,5 @@
 /*
- * Chemical Equation Balancer
- * CHP-111 Li Summ 2019 HCCC
+ * Chemical Equation Balance
  */
 "use strict";
 /*---- Entry point functions from HTML GUI ----*/
